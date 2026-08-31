@@ -16,37 +16,44 @@ size-adjust: 109%;
 text, tspan {white-space: pre;}
 </style>
 <rect width="985px" height="530px" fill="#f6f8fa" rx="15"/>
-<text x="15" y="30" fill="#24292f" class="ascii">
-<tspan x="15" y="30"/>
-<tspan x="15" y="50"/>
-<tspan x="15" y="70"/>
-<tspan x="15" y="90">             //           // \\</tspan>
-<tspan x="15" y="110">            //           //   \\</tspan>
-<tspan x="15" y="130">           //            //    \\</tspan>
-<tspan x="15" y="150">          //            //      \\</tspan>
-<tspan x="15" y="170">         //             //       \\</tspan>
-<tspan x="15" y="190">        //             //         \\</tspan>
-<tspan x="15" y="210">       //              //          \\</tspan>
-<tspan x="15" y="230">      //              //            \\</tspan>
-<tspan x="15" y="250">     //               //             \\</tspan>
-<tspan x="15" y="270">    \\               //               //</tspan>
-<tspan x="15" y="290">     \\             //               //</tspan>
-<tspan x="15" y="310">      \\            //              //</tspan>
-<tspan x="15" y="330">       \\          //              //</tspan>
-<tspan x="15" y="350">        \\         //             //</tspan>
-<tspan x="15" y="370">         \\       //             //</tspan>
-<tspan x="15" y="390">          \\      //            //</tspan>
-<tspan x="15" y="410">           \\    //            //</tspan>
-<tspan x="15" y="430">            \\   //           //</tspan>
-<tspan x="15" y="450">             \\ //           //</tspan>
-<tspan x="15" y="470"/>
-<tspan x="15" y="490"/>
-<tspan x="15" y="510"/>
+<text x="15" y="22" fill="#24292f" class="ascii" font-size="10px">
+<tspan x="15" y="22">                         oMMM---MMMMo_</tspan>
+<tspan x="15" y="37">                       ╓M-         "-MMo_</tspan>
+<tspan x="15" y="52">                      oM             ,"-MMo</tspan>
+<tspan x="15" y="67">                     oM              "Mo -MMo</tspan>
+<tspan x="15" y="82">                    oM                lMMMo"-</tspan>
+<tspan x="15" y="97">                   ╒M-                 -M-MMK┌-M</tspan>
+<tspan x="15" y="112">                   MK                   MM '-MM▓M╕</tspan>
+<tspan x="15" y="127">                  MM       ___,__       "MK   "-MM</tspan>
+<tspan x="15" y="142">                ,oMMoMMM-------------MMMoMMo,    -¬</tspan>
+<tspan x="15" y="157">           ╓oMMM--"`                     -"--MMMo_</tspan>
+<tspan x="15" y="172">       ooMM---                                 └--MMoo</tspan>
+<tspan x="15" y="187">   ooMMMMoooooooo╥_____               ____╥¿ooooooooMMMMoo</tspan>
+<tspan x="15" y="202"> .MMMMMMMMMM-"-MMMMMMM---MMMMMMMMMMM---MMMMMMM-"-MMMMMMMMMM</tspan>
+<tspan x="15" y="217">  MM-MMMMM▓-` lM  -K *-   _ oMMM o    -` M-  M  '-▓MMMMM-MM</tspan>
+<tspan x="15" y="232">  "MMo▓-Mooo,,M"  oKoo-Mooo M  l MoooM-ooMo  lM_,ooMM-▓MM-</tspan>
+<tspan x="15" y="247">    '-MMMMoooM"┌K Maaaaaaaa M  l       M J -MoooMMM--</tspan>
+<tspan x="15" y="262">         "--M¬╒M lMoaaaa ,o¥"   læo_    olM  M_"M--'</tspan>
+<tspan x="15" y="277">           M¬╒M  MMMooo oK ┌"   "_ -µ oooMKM  M,lM</tspan>
+<tspan x="15" y="292">          MKMM ╒M─"Mo-oM-M-""---""%M-Mo-oMMlM  MoMK</tspan>
+<tspan x="15" y="307">          -lM ┌-M   '▓M-     ╓M_     -MK- M MM  M--</tspan>
+<tspan x="15" y="322">           M"╒K l⌐   M __,oæ--"--oo_   MK M  MM_lM</tspan>
+<tspan x="15" y="337">           MoM   K   MM--"ooæΦΦ¥æoo"---MM MM  MMoM</tspan>
+<tspan x="15" y="352">            ▓Ko⌐ M  M M-M-▓M     ."-MM  MoMl_ MlK</tspan>
+<tspan x="15" y="367">            MMM oMMK M    M       M MK   M_▓M MMK</tspan>
+<tspan x="15" y="382">             -loMMM∩ K   "K       lK -o   MMMM⌐-</tspan>
+<tspan x="15" y="397">               -K"M⌐ M   ▓⌐        K  M   M-MM</tspan>
+<tspan x="15" y="412">                  "K lo  MK        K  M   M⌐"-</tspan>
+<tspan x="15" y="427">                   -M--  MK       lM  MMo M</tspan>
+<tspan x="15" y="442">                    '  M MM      oMM⌐lK "M-</tspan>
+<tspan x="15" y="457">                       l M"o    lM lM</tspan>
+<tspan x="15" y="472">                       ╨-   Mo  M   -</tspan>
+<tspan x="15" y="487">                             -Mo"</tspan>
 </text>
 <text x="390" y="30" fill="#24292f">
 <tspan x="390" y="30">kxardas@github</tspan> -—————————————————————————————————————————-—-
 <tspan x="390" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ........................................ </tspan><tspan class="value">macOS, Linux</tspan>
-<tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ...................... </tspan><tspan class="value" id="age_data">19 years, 0 months, 21 days</tspan>
+<tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> .................... </tspan><tspan class="value" id="age_data">XX years, XX months, XX days</tspan>
 <tspan x="390" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">Technical University of Košice</tspan>
 <tspan x="390" y="110" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">Next.js Full-Stack Developer</tspan>
 <tspan x="390" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ............................................. </tspan><tspan class="value">VSCode</tspan>
@@ -63,8 +70,8 @@ text, tspan {white-space: pre;}
 <tspan x="390" y="370" class="cc">. </tspan><tspan class="key">Location</tspan>:<tspan class="cc"> .............................. </tspan><tspan class="value">Košice, Slovakia</tspan>
 <tspan x="390" y="390" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ................................. </tspan><tspan class="value">your-linkedin</tspan>
 <tspan x="390" y="450">- GitHub Stats</tspan> -—————————————————————————————————————————-—-
-<tspan x="390" y="470" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc" id="repo_data_dots"> ..... </tspan><tspan class="value" id="repo_data">9</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value" id="contrib_data">12</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="cc" id="star_data_dots"> ............. </tspan><tspan class="value" id="star_data">0</tspan>
-<tspan x="390" y="490" class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc" id="commit_data_dots"> ................... </tspan><tspan class="value" id="commit_data">206</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc" id="follower_data_dots"> ......... </tspan><tspan class="value" id="follower_data">1</tspan>
-<tspan x="390" y="510" class="cc">. </tspan><tspan class="key">Lines of Code on GitHub</tspan>:<tspan class="cc" id="loc_data_dots"> ... </tspan><tspan class="value" id="loc_data">61,934</tspan> ( <tspan class="addColor" id="loc_add">75,315</tspan><tspan class="addColor">++</tspan>, <tspan id="loc_del_dots"> </tspan><tspan class="delColor" id="loc_del">13,381</tspan><tspan class="delColor">--</tspan> )
+<tspan x="390" y="470" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc" id="repo_data_dots"> .... </tspan><tspan class="value" id="repo_data">0</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value" id="contrib_data">0</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="cc" id="star_data_dots"> ........... </tspan><tspan class="value" id="star_data">0</tspan>
+<tspan x="390" y="490" class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc" id="commit_data_dots"> ................. </tspan><tspan class="value" id="commit_data">0</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc" id="follower_data_dots"> ....... </tspan><tspan class="value" id="follower_data">0</tspan>
+<tspan x="390" y="510" class="cc">. </tspan><tspan class="key">Lines of Code on GitHub</tspan>:<tspan class="cc" id="loc_data_dots">. </tspan><tspan class="value" id="loc_data">0</tspan> ( <tspan class="addColor" id="loc_add">0</tspan><tspan class="addColor">++</tspan>, <tspan id="loc_del_dots"> </tspan><tspan class="delColor" id="loc_del">0</tspan><tspan class="delColor">--</tspan> )
 </text>
 </svg>
